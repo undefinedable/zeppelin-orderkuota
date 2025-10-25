@@ -8,6 +8,20 @@ A lightweight, open-source integration that enables developers to use Orderkuota
 
 ---
 
+## ⚠️ Disclaimer
+
+> [!CAUTION]
+> This project is an **unofficial integration** with [OrderKuota](https://orderkuota.com) — it is **not affiliated, endorsed, or maintained** by OrderKuota in any way.  
+>  
+> Use this API **at your own risk (DWYOR)**.  
+> The developer **does not guarantee** security, stability, or compliance with OrderKuota’s Terms of Service.  
+>  
+> Using this for illegal activities (including gambling (judol) payment gateways or fraudulent use) **may result in suspension or permanent account ban**.  
+>  
+> ⚠️ Please **use responsibly and ethically.**
+
+---
+
 ## Overview
 
 **Zeppelin Orderkuota** is a simple, modular Telegram bot built with [Telegraf](https://telegraf.js.org/).  
