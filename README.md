@@ -16,7 +16,7 @@ A lightweight, open-source integration that enables developers to use Orderkuota
 > Use this API **at your own risk (DWYOR)**.  
 > The developer **does not guarantee** security, stability, or compliance with OrderKuota’s Terms of Service.  
 >  
-> Using this for illegal activities (including gambling (judol) payment gateways or fraudulent use) **may result in suspension or permanent account ban**.  
+> Using this for illegal activities (including gambling/judol payment gateways or fraudulent use) **may result in suspension or permanent account ban**.  
 >  
 > ⚠️ Please **use responsibly and ethically.**
 
@@ -48,12 +48,12 @@ npm install
 ---
 ### 2. Get Auth Token and Username
 
-#### 🧩 How to get username:
+#### How to get username:
 1. Open the **Orderkuota** app on your phone.  
 2. Go to **Account → Profile → Username**.  
 3. Copy your **username** — you’ll need it for authentication.
 
-#### 🔑 How to get auth token:
+#### How to get auth token:
 1. Visit [https://zeppelin-api.vercel.app/get-auth](https://zeppelin-api.vercel.app/get-auth).  
 2. Enter your **Orderkuota username**.  
 3. Input the **OTP** you receive to generate your auth token.  
